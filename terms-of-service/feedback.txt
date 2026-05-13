@@ -1,0 +1,27 @@
+rules for the /feedback command:
+
+1. do not troll  
+seriously, dont. the command is meant for reporting bugs and giving feedback about them so i could fix them
+
+2. do not spam  
+even with the cooldown, some people may still just keep using that command. just dont pls
+
+3. please be nice  
+
+good example:  
+"Hey! So I noticed your bot sometimes stops responding to messages, could you fix it please?"
+
+bad example:  
+"IDIOT FIX THIS NOWWWW YOUR BOT ISNT RESPONDING TO MY MESSAGES FIX IT FIX IT FUCKING IDIOT"
+
+4. pls explain your concern  
+
+good example:  
+"What I mean is:  
+- Hey @OZZOBot!  
+- [No response]  
+- Hello?  
+- [Still no response]"
+
+bad example:  
+"YOU MADE THE BOT SO FIGURE IT OUT"
